@@ -5,7 +5,7 @@ interface ContainerProps {
 }
 
 export const Container = styled.div<ContainerProps>`
-  background: #5636d3;
+  background: linear-gradient(145deg, #282a35, #453f5a);
   padding: 30px 0;
 
   header {
@@ -18,7 +18,7 @@ export const Container = styled.div<ContainerProps>`
 
     nav {
       a {
-        color: #fff;
+        color: #f2f2f2;
         text-decoration: none;
         font-size: 16px;
         transition: opacity 0.2s;
@@ -28,7 +28,7 @@ export const Container = styled.div<ContainerProps>`
         }
 
         &:hover {
-          opacity: 0.6;
+          color: #af8de9;
         }
       }
     }
