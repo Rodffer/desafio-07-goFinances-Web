@@ -21,7 +21,21 @@
 <p>O template está disponível na seguinte url: <strong><a href="https://github.com/Rocketseat/gostack-template-fundamentos-reactjs">Acessar Template</a></strong></p>
 <p>O desafio da Rocketseat está disponível na seguinte url: <strong><a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-reactjs">Acessar Desafio Rocketseat</a></strong></p>
 <p>O back-end está disponível na seguinte url: <strong><a href="https://github.com/Rodffer/desafio-06-nodeJs">Acessar Back-end</a></strong></p>
+
+<h2>Tecnologias Utilizadas</h2>
+<ul>
+  <li>React.js</li>
+  <li>TypeScript</li>
+</ul>
+
+<h2>Features</h2>
+<ul>
+  <li>Padrão de código com ESLint, Prettier e EditorConfig.</li>
+  <li>Envio de arquivos utilizando Dropzone</li>
+  <li>Cores inspiradas no tema Dracula</li>
+</ul>
 <hr>
+
 <h2>Comandos back-end</h2>
 
 ### instalar dependências
