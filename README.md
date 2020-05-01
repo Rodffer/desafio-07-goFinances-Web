@@ -10,7 +10,6 @@
   <img alt="made_by" src="https://img.shields.io/badge/made%20by-Rodffer-blueviolet">
   <img alt="license" src="https://img.shields.io/badge/licence-MIT-blueviolet">
 </p>
-<hr>
 
 ![Peek 2020-04-29 20-51111](https://user-images.githubusercontent.com/44624642/80805087-6a66e800-8b8d-11ea-8643-c12a20e87e47.gif)
 
@@ -34,7 +33,6 @@
   <li>Envio de arquivos utilizando Dropzone</li>
   <li>Cores inspiradas no tema Dracula</li>
 </ul>
-<hr>
 
 <h2>Comandos back-end</h2>
 
@@ -62,7 +60,6 @@ yarn start
 ```
 yarn test
 ```
-<hr>
 
 <p>Feito com <g-emoji class="g-emoji" alias="purple_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png">💜</g-emoji> by Rodffer <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> <a href="https://discordapp.com/invite/gCRAFhc" rel="nofollow">Entre na comunidade Rocketseat!</a></p>
 
