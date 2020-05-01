@@ -11,6 +11,9 @@
   <img alt="license" src="https://img.shields.io/badge/licence-MIT-blueviolet">
 </p>
 <hr>
+
+![Peek 2020-04-29 20-51111](https://user-images.githubusercontent.com/44624642/80805087-6a66e800-8b8d-11ea-8643-c12a20e87e47.gif)
+
 <h2>🚀 Sobre o desafio</h2>
 <p>Desafio para treinar React.js junto ao TypeScript, desenvolvendo o front-end de uma aplicacao financeira.</p>
 <h2>Template da aplicação</h2>
